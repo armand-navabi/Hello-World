@@ -3,7 +3,7 @@ Git Project:  Setting up a new git repository.
 1) set up a new repo (not a client, but a repo) on your local machine.
 2) checkout a client.
 3) checkout a 2nd client.
-4) make a change in 1st client and push remote.
+4) make a change in 1st client and push remote. THIS IS THAT CHANGE!
 5) sync in 2nd client and see change.
 6) revert it in second client and push remote.
 7) sync in 1st client and see unchange.
